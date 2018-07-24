@@ -1,0 +1,58 @@
+<html><head></head><body><table style="width: 100%; background: #f2f2f2; overflow: hidden; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table style="margin: 5% auto;  border-collapse: collapse; background: #f2f2f2; font-family: 'Helvetica',Arial;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table style="border-collapse: collapse; width: 100%; background: #f2f2f2; box-shadow: 0px 0px 10px 0 rgba(22, 53, 67, 0.2); border-radius: 4px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table style="width: 100%; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="email-header" style="background: transparent; overflow: hidden;">
+	<td style="padding: 3%; margin: 0 auto;text-align: center; border-radius: 4px 4px 0 0;"><a style="display: inline-block; text-align:center;" href="#">
+		<img src="http://makhzn.dev.contus.us/assets/images/email/logo.png" alt=""></a> 
+	</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-collapse: collapse; max-width: 650px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="email-body" style="background-image: url('http://www.studentssupport.in/wp-content/uploads/2017/07/tata-communications_logo-560x390.jpg');background-size: contain;background-color: #fff;padding-top: 15%;background-repeat: no-repeat;background-size: 135px;">
+<td style="padding-top: 15%;">
+<h4 style="text-align: center; font-weight: 600; font-size: 16px; color: #0d0808; margin: 4% 0 0 0;">Dear ${context.firstName},</h4>
+<h3 style="text-align: left; font-weight: 400; font-size: 28px; padding-left: 0.5cm; margin: 4% 0 1% 0;">Your Log-in details are as follows.</h3>
+<h2 style="text-align: left; font-weight: 400; font-size: 20px; padding-left: 2.5cm; margin: 4% 0 1% 0;">Username : ${context.userName} <br>Password &nbsp;: ${context.password} </h2><br><br><br>
+<h5 style="text-align: left; padding-left:0.5cm; font-weight: 400; font-size: 16px;  color: #393939; margin: 3% 0 0 0;">Welcome to the TCL family.</h5>
+<p style="margin-bottom: 45px;display: inline-block;text-align: center; text-transform:capitalize;font-weight: 400; font-size: 14px; padding: 0 5%; line-height: 20px; color: #7c7c7c;">if this email does'nt belong to you, kindly gnore it.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="email-footer">
+<td>
+<div style="overflow: hidden; margin: 4% 0 0 0;">
+<div style="width: 100%; overflow: hidden; margin-top: 1%;">
+<p style="text-align: center; width: 100%; color: #c8c8c8; font-weight: bold; font-size: 14px; margin: 0; padding: 4% 0; border-top: 1px solid #e4e7ea;">© 2018 TCL<br><a style="color: #c8c8c8; font-weight: bold; font-size: 14px;" href="#">subscribe</a></p>
+</div>
+</div>
+</td>
+</tr></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></body></html>
